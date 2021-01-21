@@ -42,7 +42,7 @@
 				{
 					"colLabels": [
 						"Psi Points",
-						"Per Use Limit",
+						"Psi Limit",
 						"{@filter Psionic Talents|optionalfeatures|feature type=PsiT}"
 					],
 					"rows": [
